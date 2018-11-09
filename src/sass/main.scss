@@ -1,0 +1,14 @@
+@import './partials/variables';
+@import './partials/mixins';
+@import './partials/normalize';
+@import './partials/todoapp';
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}

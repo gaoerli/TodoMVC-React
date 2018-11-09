@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "strict": true,
+    "jsx": "react",
+    "experimentalDecorators": true,
+    "lib": ["dom", "esnext"],
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": false,
+    "plugins": [{ "name": "typescript-styled-plugin" }]
+  }
+}
